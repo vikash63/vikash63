@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/aWgDAnWfFj7tzMHZ8)](https://https://github.co)
 <h1 align="center">Hi 👋, I'm Vikash kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/xrAtH4Y495E8bR2r6")
+<img width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash63&label=Profile%20views&color=0e75b6&style=flat" alt="vikash63" /> </p>
 

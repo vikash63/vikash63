@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vikash63/vikash/blob/main/for%20github.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/vikash63/vikash/blob/main/bi-dashboard.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vikash kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
